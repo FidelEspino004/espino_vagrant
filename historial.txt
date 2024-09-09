@@ -1,0 +1,15 @@
+    1  shh-keygen -t ed25519 
+    2  ssh-keygen -t ed25519
+    3  ls -la
+    4  cd .ssh
+    5  ls
+    6  cd
+    7  ls
+    8  cd repogit
+    9  ls
+   10  git clone git@github.com:FidelEspino004/espino_vagrant.git
+   11  ls
+   12  cd espino_vagrant
+   13  ls
+   14  history.txt
+   15  history > historial.txt
